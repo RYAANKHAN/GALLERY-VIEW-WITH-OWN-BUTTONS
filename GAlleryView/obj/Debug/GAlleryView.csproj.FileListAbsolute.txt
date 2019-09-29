@@ -1,0 +1,13 @@
+c:\users\bilal\documents\visual studio 2015\Projects\GAlleryView\GAlleryView\bin\Debug\GAlleryView.exe.config
+c:\users\bilal\documents\visual studio 2015\Projects\GAlleryView\GAlleryView\bin\Debug\GAlleryView.exe
+c:\users\bilal\documents\visual studio 2015\Projects\GAlleryView\GAlleryView\bin\Debug\GAlleryView.pdb
+c:\users\bilal\documents\visual studio 2015\Projects\GAlleryView\GAlleryView\obj\Debug\GAlleryView.Form1.resources
+c:\users\bilal\documents\visual studio 2015\Projects\GAlleryView\GAlleryView\obj\Debug\GAlleryView.Properties.Resources.resources
+c:\users\bilal\documents\visual studio 2015\Projects\GAlleryView\GAlleryView\obj\Debug\GAlleryView.csproj.GenerateResource.Cache
+c:\users\bilal\documents\visual studio 2015\Projects\GAlleryView\GAlleryView\obj\Debug\GAlleryView.exe
+c:\users\bilal\documents\visual studio 2015\Projects\GAlleryView\GAlleryView\obj\Debug\GAlleryView.pdb
+C:\Users\bilal\documents\visual studio 2015\Projects\GAlleryView\GAlleryView\obj\Debug\GAlleryView.Form2.resources
+C:\Users\bilal\documents\visual studio 2015\Projects\GAlleryView\GAlleryView\obj\Debug\GAlleryView.csprojResolveAssemblyReference.cache
+C:\Users\dall\Desktop\GAlleryView\GAlleryView\bin\Debug\GAlleryView.exe.config
+C:\Users\dall\Desktop\GAlleryView\GAlleryView\obj\Debug\GAlleryView.exe
+C:\Users\dall\Desktop\GAlleryView\GAlleryView\obj\Debug\GAlleryView.pdb
